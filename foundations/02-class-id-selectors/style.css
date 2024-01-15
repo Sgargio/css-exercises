@@ -1,0 +1,19 @@
+.odd{
+  background-color: pink;
+  font-family: Verdana, DejaVu Sans sans-serif;
+}
+
+#nd{
+  color: blue;
+  font-size: 36px;
+}
+
+.odd .rd{
+  font-size: 24px;
+}
+
+#th {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
